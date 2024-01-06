@@ -5,9 +5,9 @@
 <br>
 
 <div align="center">
- <img src = "https://github.com/HebertDoPrado/Calculadora-Simples-/assets/149273168/b94fce62-b0b8-4e57-8245-11abaca91800.png">
-</div>
+ <img src = "https://github.com/HebertDoPrado/Projeto-Calculadora/issues/1#issue-2068725484.png">
 
+</div>
 <br>
 
 <h2>🚨 Sobre</h2>
