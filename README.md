@@ -5,7 +5,8 @@
 <br>
 
 <div align="center">
- <img src = "https://github.com/HebertDoPrado/Projeto-Calculadora/issues/1#issue-2068725484.png">
+ <img src ="(https://github.com/HebertDoPrado/Projeto-Calculadora/assets/149273168/5176a9ee-6241-483a-8aba-bab0cecda81e.png)">
+
 
 </div>
 <br>
