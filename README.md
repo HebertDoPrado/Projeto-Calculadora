@@ -5,9 +5,7 @@
 <br>
 
 <div align="center">
- <img src ="(https://github.com/HebertDoPrado/Projeto-Calculadora/assets/149273168/5176a9ee-6241-483a-8aba-bab0cecda81e.png)">
-
-
+<img src ="https://github.com/HebertDoPrado/Projeto-Calculadora/assets/149273168/8e6edc2a-505f-4c6d-b719-25541cc4b707.png">
 </div>
 <br>
 
