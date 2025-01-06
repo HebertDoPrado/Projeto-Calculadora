@@ -27,3 +27,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
+
+<h2>Calculadora ➕</h2>
+https://projetocalculadora-khaki.vercel.app/
